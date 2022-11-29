@@ -9,6 +9,21 @@
 ## 打包
 使用BakaXL打包，格式为MCBBS整合包格式V2
 
+## 食用方法
+使用主流启动器：
+
+- PCL2
+- HMCL
+- BakaXL
+
+这里推荐BakaXL
+
+将整合包按照启动器作者的教程导入即可启动
+
+**注意：Minecraft 1.19需要Java 17.03及以上，推荐使用Java 19**
+
+Azul Zulu JDK : [https://drive.zyghit.cn/s/GKcQ](https://drive.zyghit.cn/s/GKcQ "Natayark云盘")
+
 ## Mod列表
 - 3dskinlayers
 - appleskin
