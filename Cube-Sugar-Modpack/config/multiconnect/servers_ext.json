@@ -1,0 +1,16 @@
+{
+  "servers": {
+    "mc.calibur.tv:25565": {
+      "forcedProtocol": -1
+    },
+    "play.miaomc.cn:25565": {
+      "forcedProtocol": -1
+    },
+    "msls1441.com:25565": {
+      "forcedProtocol": -1
+    },
+    "blockarena.top:25565": {
+      "forcedProtocol": -1
+    }
+  }
+}
