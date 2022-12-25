@@ -7,12 +7,12 @@
 </div>
 
 ## 打包
-使用BakaXL打包，格式为MCBBS整合包格式V2
+使用ATLauncher打包
 
 ## 食用方法
 使用主流启动器：
 
-- PCL2
+- PCL2（仅cf，bbs版）
 - HMCL
 - BakaXL
 
