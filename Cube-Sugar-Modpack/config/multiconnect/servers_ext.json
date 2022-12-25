@@ -1,15 +1,45 @@
 {
   "servers": {
-    "mc.calibur.tv:25565": {
+    "re.coim.club:25565": {
       "forcedProtocol": -1
     },
-    "play.miaomc.cn:25565": {
+    "true.jkarena.top:25565": {
       "forcedProtocol": -1
     },
-    "msls1441.com:25565": {
+    "hypixel.net:25565": {
+      "forcedProtocol": -1
+    },
+    "cn-zz-bgp-6.natfrp.cloud:38541": {
+      "forcedProtocol": -1
+    },
+    "sq5.z-j.wang:28730": {
+      "forcedProtocol": -1
+    },
+    "micbhfbtz5ngshsh3.neiwangyun.net:43688": {
+      "forcedProtocol": -1
+    },
+    "dlpg6aa7pwfqshsh3.neiwangyun.net:20026": {
       "forcedProtocol": -1
     },
     "blockarena.top:25565": {
+      "forcedProtocol": -1
+    },
+    "sq5.z-j.wang:47685": {
+      "forcedProtocol": -1
+    },
+    "127.0.0.1:25565": {
+      "forcedProtocol": -1
+    },
+    "p1-tr1.devicloud.cn:10142": {
+      "forcedProtocol": -1
+    },
+    "s.blockarena.top:25565": {
+      "forcedProtocol": -1
+    },
+    "true.jkarena.xyz:25565": {
+      "forcedProtocol": -1
+    },
+    "mc.remmai.com:5566": {
       "forcedProtocol": -1
     }
   }

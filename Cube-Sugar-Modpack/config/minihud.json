@@ -159,8 +159,8 @@
     "mapPreviewSize": 160,
     "slimeChunkOverlayRadius": -1,
     "spawnableColumnHeightsOverlayRadius": 40,
-    "textPosX": 385,
-    "textPosY": 48,
+    "textPosX": 4,
+    "textPosY": 4,
     "timeDayDivisor": 24000,
     "timeTotalDivisor": 24000
   },
